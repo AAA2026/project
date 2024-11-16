@@ -1,4 +1,4 @@
-name: calc Calc
+name: calc
 
 on:
   push:
